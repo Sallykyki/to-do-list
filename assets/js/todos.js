@@ -29,3 +29,7 @@ $("input[type='text']").keypress(function(event) {
     );
   }
 });
+
+$("#plus-icon").click(function() {
+  $("input[type='text']").fadeToggle();
+});

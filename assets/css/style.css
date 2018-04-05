@@ -65,7 +65,7 @@ li:nth-child(2n) {
   background-color: #f7f7f7;
 }
 
-span {
+li span {
   background-color: #e74c3c;
   height: 40x;
   margin-right: 20px;
